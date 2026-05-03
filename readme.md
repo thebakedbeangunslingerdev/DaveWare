@@ -8,7 +8,7 @@
 
 ![DaveMan](https://www.spriters-resource.com/media/assets/146/148840.png?updated=1755483118)
 
-
+(Sprites by:
 
 
 
