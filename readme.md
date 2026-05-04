@@ -37,4 +37,4 @@ I use dosbox -x for emulation, but you don't need to emulate at all! Just downlo
 
 **Virus by McaFeeHater, aka Thebakedbeangunslingerdev**
 The way to decrypt all of your files? Finish/win the entire Dangerous Dave game.
-John Romero and published by Softdisk in 1990 for DOS
+Dangerous Dave by John Romero and published by Softdisk in 1990 for DOS
