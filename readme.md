@@ -1,4 +1,4 @@
-**DaveWare**
+
 
 
 
@@ -38,3 +38,7 @@ I use dosbox -x for emulation, but you don't need to emulate at all! Just downlo
 **Virus by McaFeeHater, aka Thebakedbeangunslingerdev**
 The way to decrypt all of your files? Finish/win the entire Dangerous Dave game.
 Dangerous Dave by John Romero and published by Softdisk in 1990 for DOS
+
+**BIG PROBLEMS!!!**
+If win.png is never detected (wrong resolution, missing file, pyautogui fails, etc.), all files stay encrypted permanently
+There is no fallback recovery path.
