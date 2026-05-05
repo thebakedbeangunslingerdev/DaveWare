@@ -3,7 +3,7 @@ import time
 import sys
 import pyautogui
 import pymsgbox
-import winsound  # Built-in Windows sound library
+import winsound  
 from cryptography.fernet import Fernet
 
 # config
@@ -80,10 +80,10 @@ def run_challenge(folder, memory_key):
 if __name__ == "__main__":
     run_warnings()
     
-    # Generate the key in RAM only (not saved to disk yet)
+    #generate the key in RAM only (not saved to disk yet)
     session_key = Fernet.generate_key()
     
-    # Lock the library
+    #lock the library
     transform_folder(TARGET_FOLDER, session_key, mode="encrypt")
     
     # Wait for the win screen to save the key and unlock
